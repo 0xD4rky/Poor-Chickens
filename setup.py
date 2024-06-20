@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Poor-Chickens"
 AUTHOR_USERNAME = "0xD4rky"
-SRC_REPO = "CNN Classifier"
+SRC_REPO = "CNNClassifier"
 AUTHOR_EMAIL = "ishaan.kumar281@gmail.com"
 
 setuptools.setup(
