@@ -4,7 +4,7 @@ import zipfile
 from CNNClassifier import logger
 from CNNClassifier.utils.common import get_size
 from CNNClassifier.entity.config_entity import DataIngestionConfig
-
+from pathlib import Path
 
 class DataIngestion:
     def __init__(self,config: DataIngestionConfig):
